@@ -1,0 +1,24 @@
+{
+    "version": "0.5.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/OrgMentem/zotio/releases/download/v0.5.0/zotio_0.5.0_windows_amd64.zip",
+            "bin": [
+                "zotio.exe",
+                "zotio-mcp.exe"
+            ],
+            "hash": "adcfc980c22e75f8b7837b03fb1d5b3ba319e4b80558bdb5d5137a07d2d04625"
+        },
+        "arm64": {
+            "url": "https://github.com/OrgMentem/zotio/releases/download/v0.5.0/zotio_0.5.0_windows_arm64.zip",
+            "bin": [
+                "zotio.exe",
+                "zotio-mcp.exe"
+            ],
+            "hash": "03b75aa11725e509509a6c4ae96d5455d17ffbdb5a20cc489b1e7b72cf559193"
+        }
+    },
+    "homepage": "https://github.com/OrgMentem/zotio",
+    "license": "MIT",
+    "description": "Zotero automation CLI: local-first search, library health checks, preview-first writes, annotation export, and MCP"
+}
