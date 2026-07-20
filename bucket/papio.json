@@ -1,19 +1,19 @@
 {
-    "version": "0.7.0",
+    "version": "0.7.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/OrgMentem/papio/releases/download/v0.7.0/papio_0.7.0_windows_amd64.zip",
+            "url": "https://github.com/OrgMentem/papio/releases/download/v0.7.1/papio_0.7.1_windows_amd64.zip",
             "bin": [
                 "papio.exe"
             ],
-            "hash": "8b61148caac9c57aa0d17a196b51fd4362630b20dc44113f519ed1a491b27b37"
+            "hash": "e11cb024c369e78fc4215f0febe650055c57524f434dd9ce0171ca18c1d3b6f1"
         },
         "arm64": {
-            "url": "https://github.com/OrgMentem/papio/releases/download/v0.7.0/papio_0.7.0_windows_arm64.zip",
+            "url": "https://github.com/OrgMentem/papio/releases/download/v0.7.1/papio_0.7.1_windows_arm64.zip",
             "bin": [
                 "papio.exe"
             ],
-            "hash": "b75f8ca116f9a27643f9c479f3fc7b1c4ccd846735395d52cef560361cf72032"
+            "hash": "b0fbc783da30a3321f8e9a057b4e63e9aebee6a29fb26b7362ed334f47c2fc36"
         }
     },
     "homepage": "https://github.com/OrgMentem/papio",
