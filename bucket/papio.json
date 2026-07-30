@@ -1,22 +1,22 @@
 {
-    "version": "0.13.0",
+    "version": "0.14.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/OrgMentem/papio/releases/download/v0.13.0/papio_0.13.0_windows_amd64.zip",
+            "url": "https://github.com/OrgMentem/papio/releases/download/v0.14.0/papio_0.14.0_windows_amd64.zip",
             "bin": [
                 "papio.exe"
             ],
-            "hash": "1031f17af54727f233d9d356f49502849f12263040e6c808d8feca10b749c94e"
+            "hash": "6c2983072fe31c95ae0e5ff5ae6a7c8104383b59c299248bde6bb83613658061"
         },
         "arm64": {
-            "url": "https://github.com/OrgMentem/papio/releases/download/v0.13.0/papio_0.13.0_windows_arm64.zip",
+            "url": "https://github.com/OrgMentem/papio/releases/download/v0.14.0/papio_0.14.0_windows_arm64.zip",
             "bin": [
                 "papio.exe"
             ],
-            "hash": "a03c2ab806055da33ac9a6a26e0074971bc9313d8ee51a567c877aefc6359ad9"
+            "hash": "a7fcddada3ffccd7c8d391d2185a1d55b272deb725ce44a5d755a804778ac372"
         }
     },
     "homepage": "https://github.com/OrgMentem/papio",
     "license": "MIT",
-    "description": "Autonomous scholarly-paper acquisition broker that files validated PDFs into Zotero via zotio"
+    "description": "Acquire and validate scholarly PDFs for your reference library"
 }
