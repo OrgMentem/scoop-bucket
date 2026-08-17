@@ -1,21 +1,21 @@
 {
-    "version": "0.17.0",
+    "version": "0.18.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/OrgMentem/zotio/releases/download/v0.17.0/zotio_0.17.0_windows_amd64.zip",
+            "url": "https://github.com/OrgMentem/zotio/releases/download/v0.18.0/zotio_0.18.0_windows_amd64.zip",
             "bin": [
                 "zotio.exe",
                 "zotio-mcp.exe"
             ],
-            "hash": "5fbff2f5032367930a72bd8c52d1a4126ec7417dcb4b5955810962d24ca308e0"
+            "hash": "d4bfd2c338ea7e1335d6c6120007dda699c3a2c2806d50c0c9f7df2ff8c24492"
         },
         "arm64": {
-            "url": "https://github.com/OrgMentem/zotio/releases/download/v0.17.0/zotio_0.17.0_windows_arm64.zip",
+            "url": "https://github.com/OrgMentem/zotio/releases/download/v0.18.0/zotio_0.18.0_windows_arm64.zip",
             "bin": [
                 "zotio.exe",
                 "zotio-mcp.exe"
             ],
-            "hash": "256084050276631f806315386665b0a205d48e7d4fb3df49666522baa0d08fe2"
+            "hash": "379dce70c44227c200176856a9b795ab5277a7e376cee5c997d05c1e8f5e73da"
         }
     },
     "homepage": "https://github.com/OrgMentem/zotio",
