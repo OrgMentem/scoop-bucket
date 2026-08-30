@@ -1,24 +1,24 @@
 {
-    "version": "0.21.0",
+    "version": "0.22.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/OrgMentem/zotio/releases/download/v0.21.0/zotio_0.21.0_windows_amd64.zip",
+            "url": "https://github.com/OrgMentem/zotio/releases/download/v0.22.0/zotio_0.22.0_windows_amd64.zip",
             "bin": [
                 "zotio.exe",
                 "zotio-mcp.exe"
             ],
-            "hash": "72cc6105aab55fe87ca9a6702d6dc9ccafd1001ee3c345fa3f5778977ca84918"
+            "hash": "d89028bbd398edc6376fcd5e27f95574316f22828a3786e6d7e3b24c657ddaf9"
         },
         "arm64": {
-            "url": "https://github.com/OrgMentem/zotio/releases/download/v0.21.0/zotio_0.21.0_windows_arm64.zip",
+            "url": "https://github.com/OrgMentem/zotio/releases/download/v0.22.0/zotio_0.22.0_windows_arm64.zip",
             "bin": [
                 "zotio.exe",
                 "zotio-mcp.exe"
             ],
-            "hash": "02c63207a172afd8a131c8e26f2f5615df077eaea186146b9ed9e6eafb4b8d2b"
+            "hash": "760391bd8982f21fba0712246ca4068b3c9972703a6c8dc7476fd980d2a2b02a"
         }
     },
     "homepage": "https://github.com/OrgMentem/zotio",
     "license": "MIT",
-    "description": "Zotero automation CLI: local-first search, library health checks, preview-first writes, annotation export, and MCP"
+    "description": "Zotero library checks and automation: local-first search, CI health gates, preview-first writes, workflows, and MCP"
 }
